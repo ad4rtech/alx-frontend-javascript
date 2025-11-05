@@ -69,4 +69,3 @@ console.log(executeWork(createEmployee(1000)));
 
 
 
-
