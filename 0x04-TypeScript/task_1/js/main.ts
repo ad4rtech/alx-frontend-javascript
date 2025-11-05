@@ -24,7 +24,7 @@ interface StudentClassInterface {
     displayName(): string;
 }
 
-class StudentClass implements StudentClassInterface {
+class StudentClass {
     firstName: string;
     lastName: string;
 
