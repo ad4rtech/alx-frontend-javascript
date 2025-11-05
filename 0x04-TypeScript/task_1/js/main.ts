@@ -19,7 +19,7 @@ const teacher1: Teacher = {
     contract: false,
 };
 
-const director1: Directors = {
+const director1: Director = {
     firstName: 'Christopher',
     lastName: 'Magadi',
     location: 'Ethiopia',
